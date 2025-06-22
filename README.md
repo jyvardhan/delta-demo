@@ -6,3 +6,8 @@ Yash Jaiswal
 
 # Student
 Yash git 
+
+# Pratice
+Pratices session -2
+
+# 2nd 
