@@ -7,7 +7,6 @@ Yash Jaiswal
 # Student
 Yash git 
 
-# Pratice
+# PraticeFor Revesion
 Pratices session -2
 
-# 2nd 
